@@ -1,0 +1,36 @@
+
+*{
+	font-family: 'Montserrat';
+}
+
+nav{
+	background: #bde0fe;
+}
+
+#logo{
+	border-radius: 50%;
+}
+
+li{
+	font-size: 20px;
+}
+
+header h2{
+	text-align: center;
+	margin: 40px;
+}
+
+#img-1{
+	position: relative;
+	width: 20%;
+	margin-bottom: 30px;
+	left: 500px;
+}
+
+.container p{
+	width: 50%;
+}
+
+footer p{
+	font-size: 20px;
+}
