@@ -11,10 +11,6 @@ nav{
 	border-radius: 50%;
 }
 
-li{
-	font-size: 20px;
-}
-
 header h2{
 	text-align: center;
 	margin: 40px;
@@ -22,15 +18,33 @@ header h2{
 
 #img-1{
 	position: relative;
-	width: 20%;
 	margin-bottom: 30px;
 	left: 500px;
+}
+
+#img-1, #img-2, #img-3, #img-4, #img-5{
+	width: 20%;
+}
+
+aside img{
+	position: relative;
+	display: block;
+	left: 800px;
+	margin-bottom: 25px;
+}
+
+aside{
+	margin-top: -1500px;
 }
 
 .container p{
 	width: 50%;
 }
 
-footer p{
+footer{
+	margin-top: 295px;
+}
+
+li, footer p{
 	font-size: 20px;
 }
